@@ -16,3 +16,8 @@
 [Разбор Полетов](https://razborpoletov.com/)
 #### In review
 * [A Bootiful Podcast](https://soundcloud.com/a-bootiful-podcast)
+
+# IT Solutions
+## JavaScript
+* [JSData](https://www.js-data.io/) - Javascript ORM
+
