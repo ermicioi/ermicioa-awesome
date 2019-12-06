@@ -11,3 +11,8 @@
 ## Spring
 ### Spring Batch
 [Spring Batch Performance Tuning](https://www.youtube.com/watch?v=4unuv-oKkCA&list=PLrFvknrPjIN4YUc4r6WSRpYdWJOPaGsnU&index=4)
+
+# Podcasts
+[Разбор Полетов](https://razborpoletov.com/)
+#### In review
+* [A Bootiful Podcast](https://soundcloud.com/a-bootiful-podcast)
