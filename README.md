@@ -18,6 +18,7 @@
 * [A Bootiful Podcast](https://soundcloud.com/a-bootiful-podcast)
 
 # IT Solutions
+List of various solutions, framework, libraries useful for software development.
 ## JavaScript
 * [JSData](https://www.js-data.io/) - Javascript ORM
 
