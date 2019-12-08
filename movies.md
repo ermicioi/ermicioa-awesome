@@ -16,8 +16,8 @@
 
 # Movies
 [Bicentennial Man](https://filmix.co/dramy/2676-2676.html)\
-[Highlander](https://filmix.co/fjuntezi/5024-gorec-highlander-1986.html)\
+[Highlander I](https://filmix.co/fjuntezi/5024-gorec-highlander-1986.html)\
 [Highlander II: The Quickening](https://filmix.co/fantastika/57017-gorec-2-ozhivlenie-highlander-ii-the-quickening-1991.html)\
 [Highlander III: The Sorcerer](https://filmix.co/fantastika/91376-gorec-3-poslednee-izmerenie-highlander-iii-the-sorcerer-highlander-3-the-sorcerer-1994.html)\
-[Highlander: Endgame](https://filmix.co/fantastika/684-gorec-4-konec-igry-highlander-endgame-2000.html)\
+[Highlander IV: Endgame](https://filmix.co/fantastika/684-gorec-4-konec-igry-highlander-endgame-2000.html)\
 [The man from earth](https://filmix.co/dramy/2179-film-2179-2019.html)\
